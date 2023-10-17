@@ -42,7 +42,6 @@ body{
 
 .half{
     width: 50%;
-    flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -59,7 +58,7 @@ body{
 
 .half:first-child > h3:first-of-type{
     font-size: 1.2em;
-    color: rgba(255, 255, 255, 0.705);
+    color: hsl(241, 100%, 89%);
 }
 
 .circle{
@@ -78,9 +77,9 @@ body{
     font-size: 4em;
 }
 
-.circle p{
+.circle > p{
     font-size: 1.1em;
-    color: rgba(255, 255, 255, 0.705);
+    color: hsl(241, 100%, 89%);
 }
 
 .half:first-child > h3:last-of-type{
@@ -90,12 +89,83 @@ body{
 
 .half:first-child > p:last-of-type{
     text-align: center;
+    color: hsl(241, 100%, 89%);
 }
 
+.half:last-child > h3{
+    padding: 20px;
 
+}
 
+.list > ul{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
 
+}
 
+.list > ul > li{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    gap: 50px;
+    padding: 0px 14px;
+    
+}
 
+.list > ul > li:nth-child(1){
+    background-color: hsla(0, 100%, 67%, 0.26);
+}
 
+.list > ul > li:nth-child(2){
+    background-color: hsl(39, 100%, 56%, 0.26);
+}
+
+.list > ul > li:nth-child(3){
+    background-color: hsl(166, 100%, 37%, 0.26);
+}
+
+.list > ul > li:nth-child(4){
+    background-color: hsl(234, 85%, 45%, 0.26);
+}
+
+.list li div {
+    display: flex;
+    gap: 8px
+}
+
+.list li:nth-child(1) div span{
+    color: hsl(0, 100%, 67%);
+}
+
+.list li:nth-child(2) div span{
+    color: hsl(39, 100%, 56%);
+}
+
+.list li:nth-child(3) div span{
+    color: hsl(166, 100%, 37%);
+}
+
+.list li:nth-child(4) div span{
+    color: hsl(234, 85%, 45%);
+}
+
+.half:last-child > span{
+    display: block;
+    margin-top: 30px;
+    padding: 10px 100px;
+    background-color: hsl(224, 30%, 27%);
+    color: white;
+    border-radius: 20px;
+
+}
+
+.half:last-child > span:hover{
+    text-decoration: underline;
+}
 
