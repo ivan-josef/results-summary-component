@@ -4,54 +4,47 @@ This is a solution for the [Results summary component challenge on Frontend Ment
 
 ## Table of contents 
 
-<ul>
-  <li>
-    Overview
-    <ul>
-      <li>
-        The challenge
-      </li>
-      <li>
-        Screenshot
-      </li>
-      <li>
-        Links
-      </li>
-    </ul>
-  </li>
-  <li>
-    My process
-    <ul>
-      <li>
-        Built with
-      </li>
-      <li>
-        What i learned
-      </li>
-      <li>
-        Continued development
-      </li>
-      <li>
-        Useful resources
-      </li>
-    </ul>
-  </li>
-  <li>
-    Author
-  </li>
-  <li>
-    Acknowledgments
-  </li>
-</ul>
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What i learned](#what-i-learned)
+- [Author](#author)
+
 
 ## Overview
 
 ### The challenge
-       
+
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+- Bonus: Use the local JSON data to dynamically populate the content
+     
+### Screenshot
+
+![screenshot](https://github.com/ivan-josef/results-summary-component/blob/main/screenshot.jfif)
+
+### Links
+
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-solution-NJNNCWiKJ9
+- Live Site URL: https://ivan-josef.github.io/results-summary-component/
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What i learned
 
 
 
+## Author
 
-[Table of contents](#table-of-contents)
+- Frontend Mentor [ivan-josef](https://www.frontendmentor.io/profile/ivan-josef)
 
 
