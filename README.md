@@ -12,6 +12,7 @@ This is a solution for the [Results summary component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What i learned](#what-i-learned)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -41,10 +42,12 @@ This is a solution for the [Results summary component challenge on Frontend Ment
 
 ### What i learned
 
-
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 ## Author
 
 - Frontend Mentor [ivan-josef](https://www.frontendmentor.io/profile/ivan-josef)
 
+## Acknowledgments
 
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
